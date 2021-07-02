@@ -19,7 +19,11 @@
     * The game will display Roborto's remaining health points.
     * Roborto will attack the player's robot, and Roberto's attack points will be deducted from the player's robot's health points.
     * The game will display the player-robot's remaining health points.
-8.  The game will end.
+8.  The game will end. 
+
+![Alt text](assets/robot-gladiator.jpg "Working Robot Gladiator Game")
+
+
 ### Built With
 * HTML
 * JavaScript
